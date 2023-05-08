@@ -1,0 +1,2 @@
+WS: describe everything and give some WNIOSKI per LaTeX
+SJ: fix arctan, generate for different alphas and r
